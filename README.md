@@ -41,7 +41,7 @@ El desarrollo del proyecto se dividió en fases de investigación UX, prototipad
 * **Pruebas de Usabilidad (3):** Testeo digital con 3 usuarios para validar la estructura y la claridad de la interfaz.
 * **Reflexión y Hallazgos:** Análisis de feedback sobre la navegación, claridad de botones y mejoras a implementar en el diseño final.
 
-### ✨ 4. Fase de Alto Nivel & Gestión ( UI & Product)
+### ✨ 4. Fase de Alto Nivel & Gestión en FIGMA (UI & Product)
 * **Prototipo a Alto Nivel:** Diseño final interactivo con identidad visual, colores, tipografías y microinteracciones listas para desarrollo.
 * **Backlog del Producto:** Listado de priorización con al menos **10 User Stories (Historias de Usuario)** que guiarán el desarrollo técnico.
 
