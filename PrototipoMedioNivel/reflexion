@@ -1,0 +1,18 @@
+Durante las tres pruebas de usuario se identificaron dos hallazgos principales. 
+El primero fue la falta de retroalimentación en las acciones: los usuarios solo 
+reciben una confirmación visual cuando realizan una compra, pero el resto de 
+las interacciones como agregar al carrito, eliminar o actualizar cantidades quedan 
+sin respuesta aparente, lo que generó incertidumbre sobre si la acción se ejecutó correctamente.
+
+El segundo fue la inconsistencia tipográfica. Los usuarios no lo verbalizaron 
+directamente, pero la mezcla de fuentes contribuyó a una percepción de falta de 
+pulido en la interfaz, afectando la confianza en el producto.
+
+El botón para rastrear el pedido no fue probado durante las sesiones, 
+por lo que la propuesta de mejorar su ícono viene de una revisión heurística 
+del equipo y no de observación directa con usuarios.
+
+A partir de esto, los cambios a realizar son implementar confirmaciones 
+para todas las acciones críticas con variantes de éxito y error, unificar la 
+tipografía, y mejorar el ícono del rastreador como mejora heurística pendiente 
+de validar. Queda también para una siguiente iteración el manejo de estados de error.
