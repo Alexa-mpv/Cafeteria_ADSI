@@ -1,4 +1,4 @@
-# ☕ CoffeeBeforeClass - App de Pedidos de Café
+# ☕ COMAX - App de Pedidos de Café
 ## 👥 Autores: 
 - Carlos Lugo Torres
 -  Alexa Morales Pérez Vargas
