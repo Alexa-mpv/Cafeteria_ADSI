@@ -6,6 +6,8 @@
 -    Joshua Chaparro Sandoval
 -    Emiliano Aguilar Castillo.
 
+---
+## 🎯 Objetivo
 Este proyecto consiste en el diseño, validación y prototipado de una aplicación móvil pensada para estudiantes y profesores que desean optimizar su tiempo, permitiéndoles programar su café favorito antes de entrar a clase para evitar filas.
 
 ---
