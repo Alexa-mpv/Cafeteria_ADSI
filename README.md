@@ -1,5 +1,5 @@
 # ☕ CoffeeBeforeClass - App de Pedidos de Café
-# Autores: 
+## 👥 Autores: 
 - Carlos Lugo Torres
 -  Alexa Morales Pérez Vargas
 -   Emilio González Acosta
